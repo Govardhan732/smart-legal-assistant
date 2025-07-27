@@ -20,3 +20,9 @@ This project is an AI-powered assistant that helps users identify the most relev
 ``My wife is mentally harassing me for dowry``
 
 **Output**:
+Predicted Section: 498A
+Title           : Husband or relative of husband of a woman subjecting her to cruelty
+Act             : Indian Penal Code (IPC)
+Description     : Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.
+Example Case    : State vs Rajesh Kumar, 2019 — Delhi High Court ruled that persistent mental harassment by in-laws or husband demanding dowry qualifies under Section 498A IPC.
+Confidence Score: 91%
