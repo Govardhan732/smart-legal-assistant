@@ -1,0 +1,12 @@
+Software Requirements Specification (SRS)
+
+Project: Smart Legal Assistant
+
+Modules:
+- User Input (Java)
+- AI Prediction (Python)
+- Result Display
+- MySQL Storage
+
+Tools:
+- Java, Python, scikit-learn, MySQL
